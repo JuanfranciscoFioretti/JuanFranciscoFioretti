@@ -60,13 +60,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82518527?v=4"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/JuanFranciscoFioretti/JuanFranciscoFioretti/output/snake.svg" alt="Snake animation" />
-
-###
