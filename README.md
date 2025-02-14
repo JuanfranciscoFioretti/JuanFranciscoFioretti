@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 👋 Welcome to my repository. After countless hours of dedication and learning, I’m proud of my current tech stack. This is just the beginning of my journey, and I’d love for you to be part of it! 🚀</h2>
+<h2 align="center">Hi! 👋 Welcome to my repository. After countless hours of dedication and learning, I’m proud of my current tech stack. This is just the beginning of my journey, and I’d love for you to be part of it! 🚀</h2>
 
 ###
 
