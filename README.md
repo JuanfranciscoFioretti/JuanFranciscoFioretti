@@ -45,6 +45,7 @@
 </div>
 
 ## 🧠 About Me
+---
 
 ```ts
 const juan = {
@@ -61,18 +62,23 @@ const juan = {
   currently:   "Creating products that matter 🚀"
 };
 ```
+---
 <br><br>
+
+<div align="center">
 
 🌐 **Let’s Connect**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/TU_USUARIO_INSTAGRAM" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/TU_USUARIO_INSTAGRAM" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="50" height="50"/>
+</a>
+
+<br><br>
 
 ✨ **Thanks for stopping by. Let’s build something great.**
+
+</div>
