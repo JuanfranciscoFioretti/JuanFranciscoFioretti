@@ -43,7 +43,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
 
 </div>
----
 
 ## 🧠 About Me
 
@@ -61,7 +60,7 @@ const juan = {
   ],
   currently:   "Creating products that matter 🚀"
 };
----
+```
 <br><br>
 
 🌐 **Let’s Connect**
