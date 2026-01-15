@@ -12,33 +12,38 @@
   <img src="https://komarev.com/ghpvc/?username=JuanFranciscoFioretti&label=Profile%20views&color=6d28d9&style=flat" alt="Profile views" />
 </p>
 
-🛠️ Tech Stack
-🔹 Backend & Infrastructure
+🛠️ **Tech Stack**
 
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+<div align="center">
 
-🔹 Frontend
+**Backend & Infrastructure**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+<br><br>
 
-🔹 Tooling
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
+<br><br>
 
+**Tooling**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
+
+</div>
 ---
 
 ## 🧠 About Me
