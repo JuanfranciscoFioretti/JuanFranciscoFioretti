@@ -41,6 +41,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Creative_Cloud_rainbow_icon.svg" title="Adobe Creative Cloud" alt="Adobe" width="40" height="40"/>
 
 </div>
 
