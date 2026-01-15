@@ -69,11 +69,11 @@ const juan = {
 
 🌐 **Let’s Connect**
 
-<a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_BLANK" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_BLANK">
   <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sostentia/" target="_BLANK" rel="noopener noreferrer">
+
+<a href="https://www.instagram.com/sostentia/" target="_BLANK">
   <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" title="Instagram" alt="Instagram" width="50" height="50"/>
 </a>
 
