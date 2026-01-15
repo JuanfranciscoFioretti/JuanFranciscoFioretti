@@ -12,25 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=JuanFranciscoFioretti&label=Profile%20views&color=6d28d9&style=flat" alt="Profile views" />
 </p>
 
----
-
-## 🧠 About Me
-
-```ts
-const juan = {
-  role:        "Full Stack Developer & Founder",
-  company:     "Sostentia",
-  stack:       ["React", "React Native", "Next.js", "TypeScript", "Node.js", "MongoDB"],
-  mindset:     "Always learning & building",
-  interests:   [
-    "Clean Architecture",
-    "Scalable Systems",
-    "UI/UX & Performance",
-    "Real-world impact"
-  ],
-  currently:   "Creating products that matter 🚀"
-};
-
 🛠️ Tech Stack
 🔹 Backend & Infrastructure
 
@@ -57,3 +38,22 @@ const juan = {
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
+
+---
+
+## 🧠 About Me
+
+```ts
+const juan = {
+  role:        "Full Stack Developer & Founder",
+  company:     "Sostentia",
+  stack:       ["React", "React Native", "Next.js", "TypeScript", "Node.js", "MongoDB"],
+  mindset:     "Always learning & building",
+  interests:   [
+    "Clean Architecture",
+    "Scalable Systems",
+    "UI/UX & Performance",
+    "Real-world impact"
+  ],
+  currently:   "Creating products that matter 🚀"
+};
