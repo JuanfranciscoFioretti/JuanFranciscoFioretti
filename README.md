@@ -80,7 +80,9 @@ const juan = {
 <a href="https://www.instagram.com/sostentia/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" title="Instagram" alt="Instagram" width="50" height="50"/>
 </a>
+
 🌐 **Let’s Connect**
+
 ✨ **Thanks for stopping by. Let’s build something great.**
 
 </div>
