@@ -43,8 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1725863496299" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Creative_Cloud_rainbow_icon.svg" title="Adobe Creative Cloud" alt="Adobe" width="40" height="40"/>
+<img src="https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1725863485997" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 
 </div>
 
