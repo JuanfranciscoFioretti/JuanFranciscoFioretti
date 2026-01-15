@@ -73,8 +73,6 @@ const juan = {
 
 <div align="center">
 
-🌐 **Let’s Connect**
-
 <a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
 </a>
@@ -82,7 +80,7 @@ const juan = {
 <a href="https://www.instagram.com/sostentia/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" title="Instagram" alt="Instagram" width="50" height="50"/>
 </a>
-
+🌐 **Let’s Connect**
 ✨ **Thanks for stopping by. Let’s build something great.**
 
 </div>
