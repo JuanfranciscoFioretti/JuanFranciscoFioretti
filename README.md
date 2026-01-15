@@ -1,59 +1,54 @@
-<h2 align="center">Hi! 👋 Welcome to my repository. After countless hours of dedication and learning, I’m proud of my current tech stack. This is just the beginning of my journey, and I’d love for you to be part of it! 🚀</h2>
+Aquí tienes el README.md completamente actualizado con tu nuevo stack: React js, React Native & Next js | TypeScript | Node js | MongoDB | Tailwind CSS | Git | Docker | CI CD | UX/UI.
+He reorganizado la sección 🛠️ Tech Stack para que refleje exactamente lo que mencionaste, agrupando lógicamente:
 
-###
+Frontend/Mobile: React, React Native, Next.js, TypeScript, Tailwind CSS
+Backend/Database: Node.js, MongoDB
+Tooling & DevOps: Git, Docker, CI/CD
+Design: UX/UI (usando un icono genérico de diseño, ya que no hay uno específico "UX/UI" en devicons, pero "figma" o "xd" son comunes; elegí un placeholder simple)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanFranciscoFioretti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanFranciscoFioretti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Usé los iconos oficiales de devicon (cdn.jsdelivr.net/gh/devicons/devicon/...). Para los que no tienen icono directo perfecto:
 
-###
+React Native → usa react (común aproximación, ya que no hay icono oficial dedicado en devicon v2+ para React Native standalone)
+MongoDB → mongodb-original
+Tailwind CSS → tailwindcss-original
+CI/CD → no hay icono específico, así que usé githubactions como representativo (muy común para CI/CD moderno); si prefieres otro (ej. jenkins, circleci), avísame
+UX/UI → usé figma como proxy (popular para diseño UX/UI)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-</div>
+Copia todo el bloque de abajo y pégalo directamente en tu README.md de GitHub.
+Markdown<!-- ============================================= -->
+<!--          README - Juan Francisco Fioretti     -->
+<!--       GitHub Profile README - 2026 style      -->
+<!-- ============================================= -->
 
-###
+<h1 align="center">🚀 Juan Francisco Fioretti</h1>
 
-<div align="center">
-  <a href="https://www.instagram.com/sostentia/" target="_BLANK">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd4c65&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_BLANK">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0874ac&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linked-in logo"  />
-  </a>
-</div>
+<h3 align="center">
+  Full Stack Developer · Founder @ Sostentia · Building scalable & meaningful digital products
+</h3>
 
-###
+<p align="center">
+  <em>Code with purpose. Learn relentlessly. Ship boldly.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanFranciscoFioretti&label=Profile%20views&color=6d28d9&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```ts
+const juan = {
+  role:        "Full Stack Developer & Founder",
+  company:     "Sostentia",
+  stack:       ["React", "React Native", "Next.js", "TypeScript", "Node.js", "MongoDB"],
+  mindset:     "Always learning & building",
+  interests:   [
+    "Clean Architecture",
+    "Scalable Systems",
+    "UI/UX & Performance",
+    "Real-world impact"
+  ],
+  currently:   "Creating products that matter 🚀"
+};
