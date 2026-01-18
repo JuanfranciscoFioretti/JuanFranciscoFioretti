@@ -73,27 +73,34 @@ const juan = {
 
 <div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg?color=white"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />
-  </a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+        <img
+          src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+          width="40"
+          height="40"
+          alt="LinkedIn"
+          style="filter: brightness(0) invert(1);"
+        />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://www.instagram.com/sostentia/" target="_blank">
+        <img
+          src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
+          width="40"
+          height="40"
+          alt="Instagram"
+          style="filter: brightness(0) invert(1);"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/sostentia/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg?color=white"
-      alt="Instagram"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
 
 🌐 **Let’s Connect**
