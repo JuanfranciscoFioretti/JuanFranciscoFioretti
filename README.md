@@ -76,7 +76,7 @@ const juan = {
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg?color=white"
       alt="LinkedIn"
       width="40"
       height="40"
@@ -87,18 +87,13 @@ const juan = {
 
   <a href="https://www.instagram.com/sostentia/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg?color=white"
       alt="Instagram"
       width="40"
       height="40"
     />
   </a>
 </p>
-
-
-
-
-  
 
 
 🌐 **Let’s Connect**
