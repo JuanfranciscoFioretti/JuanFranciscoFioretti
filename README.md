@@ -73,16 +73,21 @@ const juan = {
 
 <div align="center">
 
-<img
-  src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-  height="40"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-  height="40"
-/>
+<a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    height="40"
+  />
+</a>&nbsp;
+<a href="https://www.instagram.com/sostentia/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+    height="40"
+  />
+</a>
+
 
 
 🌐 **Let’s Connect**
