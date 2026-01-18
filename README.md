@@ -76,11 +76,10 @@ const juan = {
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
       alt="LinkedIn"
       width="40"
       height="40"
-      style="filter: invert(1);"
     />
   </a>
 
@@ -88,14 +87,14 @@ const juan = {
 
   <a href="https://www.instagram.com/sostentia/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
       alt="Instagram"
       width="40"
       height="40"
-      style="filter: invert(1);"
     />
   </a>
 </p>
+
 
 
 
