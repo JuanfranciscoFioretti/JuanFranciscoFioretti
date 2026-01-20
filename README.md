@@ -51,6 +51,11 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1725863485997" title="Canva" alt="Canva" width="40" height="40" style="border-radius: 1/2"/>&nbsp;
+<img 
+  src="https://www.edigitalagency.com.au/wp-content/uploads/new-Canva-icon-png.png" 
+  alt="Canva" 
+  style="width: 64px; height: 64px; border-radius: 50%; object-fit: cover;"
+/>
 
 </div>
 
