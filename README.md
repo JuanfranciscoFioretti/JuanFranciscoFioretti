@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" title="JWT" alt="JWT" width="40" height="40">
+<img src="https://jwt.io/img/logo-asset.svg" title="JWT" alt="JWT" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <br><br>
@@ -78,19 +78,9 @@ const juan = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-    height="40"
-  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>&nbsp;
 <a href="https://www.instagram.com/sostentia/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-    height="40"
-  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
 </a>
 
