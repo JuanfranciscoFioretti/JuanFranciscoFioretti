@@ -59,17 +59,50 @@
 
 ```ts
 const juan = {
-  role:        "Full Stack Developer & Founder",
+  role:        "Full Stack Developer & Entrepenuer",
   company:     "Sostentia",
-  stack:       ["React", "React Native", "Next.js", "TypeScript", "Node.js", "MongoDB"],
-  mindset:     "Always learning & building",
+  stack:       ["React", "React Native", "Next.js", "TypeScript", "Tailwind Css", "Node.js", "MongoDB"],
+  mindset:     "Always learning, building and expanding",
   interests:   [
     "Clean Architecture",
     "Scalable Systems",
     "UI/UX & Performance",
     "Real-world impact"
   ],
-  currently:   "Creating products that matter 🚀"
+  currently:   "Creating solutions for real-world problems",
+  extras: [
+  "Positive Mindset",
+  "Resilience",
+  "High Detail-oriented",
+  "High Common Sense",
+  "Problem Solving Mindset",
+  "Out-of-the-box Problems Solving",
+  "Team Work",
+  "High Delegation Rate",
+  "High Tasks Owning Rate",
+  "Risk Taking",
+  "Fast Desition Maker",
+  "Planification",
+  "Architecture Thinking",
+  "T Shaped Engineer"
+],
+habits: [
+  "Sports / Training": [
+  "Combat Sports",
+  "Football",
+  "Weights",
+  "Basketball",
+  "Skateboard",
+  "Bike Riding",
+  "Running"
+],
+  "Reading",
+  "Meditation",
+  "Cooking",
+  "Learning New Skills / Tools",
+  "Traveling",
+  "Time with Friends"
+]
 };
 ```
 ---
@@ -78,10 +111,10 @@ const juan = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/juan-francisco-fioretti-full-stack-developer/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40">
 </a>&nbsp;
 <a href="https://www.instagram.com/sostentia/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" title="Instagram" width="40" height="40">
 </a>
 
 
