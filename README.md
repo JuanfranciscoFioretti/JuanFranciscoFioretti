@@ -76,7 +76,7 @@ const juan = {
   "High Detail-oriented",
   "High Common Sense",
   "Problem Solving Mindset",
-  "Out-of-the-box Problems Solving",
+  "Out-of-the-box Problem Solving",
   "Team Work",
   "High Delegation Rate",
   "High Tasks Owning Rate",
@@ -88,13 +88,13 @@ const juan = {
 ],
 habits: [
   "Sports / Training": [
-  "Combat Sports",
-  "Football",
-  "Weights",
-  "Basketball",
-  "Skateboard",
-  "Bike Riding",
-  "Running"
+    "Combat Sports",
+    "Football",
+    "Weights",
+    "Basketball",
+    "Skateboard",
+    "Bike Riding",
+    "Running"
 ],
   "Reading",
   "Meditation",
