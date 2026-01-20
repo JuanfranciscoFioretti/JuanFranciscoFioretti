@@ -81,6 +81,7 @@ const juan = {
     alt="LinkedIn"
     height="40"
   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 </a>&nbsp;
 <a href="https://www.instagram.com/sostentia/" target="_blank">
   <img
@@ -88,6 +89,7 @@ const juan = {
     alt="Instagram"
     height="40"
   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40">
 </a>
 
 
