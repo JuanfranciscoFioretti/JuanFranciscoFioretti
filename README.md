@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Juan Francisco Fioretti</h1>
 
 <h3 align="center">
-  Full Stack Developer · Founder @ Sostentia · Building scalable & meaningful digital products
+  Full Stack Software Developer · Founder & Leader @ Sostentia · Building scalable & meaningful digital products
 </h3>
 
 <p align="center">
