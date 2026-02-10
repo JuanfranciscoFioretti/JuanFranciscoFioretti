@@ -102,6 +102,7 @@ habits: [
   "Cooking",
   "Learning New Skills / Tools",
   "Traveling",
+  "Nature",
   "Time with Friends"
 ]
 };
