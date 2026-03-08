@@ -60,7 +60,7 @@
 
 ```ts
 const juan = {
-  role:        "Full Stack Developer & Entrepenuer",
+  role:        "Full Stack Software Developer & Entrepenuer",
   company:     "Sostentia",
   stack:       ["React", "React Native", "Next.js", "TypeScript", "Tailwind Css", "Node.js", "MongoDB"],
   mindset:     "Always learning, building and expanding",
