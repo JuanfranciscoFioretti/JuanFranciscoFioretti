@@ -95,7 +95,8 @@ habits: [
     "Basketball",
     "Skateboard",
     "Bike Riding",
-    "Running"
+    "Running",
+    "Swimming"
 ],
   "Reading",
   "Meditation",
