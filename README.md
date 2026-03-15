@@ -68,7 +68,8 @@ const juan = {
     "Clean Architecture",
     "Scalable Systems",
     "UI/UX & Performance",
-    "Real-world impact"
+    "Real-world impact",
+    "Accesibility"
   ],
   currently:   "Creating solutions for real-world problems",
   extras: [
